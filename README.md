@@ -41,6 +41,6 @@ The pipeline includes data preprocessing, feature scaling, categorical encoding,
 Clone the repository and install dependencies:
 
 ``` bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/preet-99/Heart-Disease-DataSet.git
 cd heart-disease-prediction
 pip install -r requirements.txt
